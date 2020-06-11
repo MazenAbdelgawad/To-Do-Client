@@ -6,11 +6,17 @@ Client-server desktop application through which the user records his To-Do items
 
 Client role:
 - UI for user to manage his tasks as 
---  can (add-delete-update) lists
---  add or remove Collarators 
---  add- delete- update tasks
---  assign collaborator to task
+
+  --  can (add-delete-update) lists
+
+  --  add or remove Collarators 
+
+  --  add- delete- update tasks
+
+  --  assign collaborator to task
+
 - Management tasks (add-edit-delete) in database
+
 - Show graph for statistics of users
 
 ## Screenshots:
