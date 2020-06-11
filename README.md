@@ -30,6 +30,12 @@ Client role:
 </div>
 
 
-## Build with:
+## Build with Tools:
 - Java SE.
-- Java FX.
+- JavaFX.
+- MVC.
+- JDBC.
+- MySQL Workbench.
+- Sockets.
+- I/O Streams.
+- JSON/GSON.
